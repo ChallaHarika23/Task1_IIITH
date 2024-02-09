@@ -1,0 +1,10 @@
+
+path: '/content/gdrive/My Drive/person_detection/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+test: images/train
+# Classes
+names:
+  0: person
+
+  

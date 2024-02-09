@@ -1,0 +1,4 @@
+data/obj_train_data/img 1.jpeg
+data/obj_train_data/img 3.jpg
+data/obj_train_data/img 4.webp
+data/obj_train_data/img2.webp
